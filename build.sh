@@ -1,0 +1,1 @@
+docker build -t robertbrem/italians:0.0.1 .
