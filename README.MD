@@ -28,5 +28,8 @@ Jenkins: `http://35.180.136.18:30180/`
 Username: chopen  
 Password: chopen  
 
+Setup of Jenkins in Kubernetes
 `kc create clusterrolebinding permissive-binding --clusterrole=cluster-admin --user=admin --user=kubelet --group=system:serviceaccounts`  
 `https://illya-chekrygin.com/2017/08/26/configuring-certificates-for-jenkins-kubernetes-plugin-0-12/`  
+
+Beispielapp: `https://github.com/khinkali/`
