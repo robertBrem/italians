@@ -21,3 +21,9 @@ Zeige Pods: `kc get po`
 Zeige Services: `kc get svc`
 
 `https://gist.github.com/robertBrem/ecfa00658c4951a098c44fb031804720`
+
+`https://github.com/khinkali/semantic-releasing`
+
+Jenkins: `http://35.180.136.18:30180/`  
+Username: chopen  
+Password: chopen  
