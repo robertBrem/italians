@@ -17,5 +17,7 @@ kc apply -f deployment.yml
 kc delete -f deployment.yml
 ```
 
+Zeige Pods: `kc get po`  
+Zeige Services: `kc get svc`
 
 `https://gist.github.com/robertBrem/ecfa00658c4951a098c44fb031804720`
